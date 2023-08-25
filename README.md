@@ -1,8 +1,8 @@
 #  Hola, soy Carlos Beltrá 👋
 ### Formándome como desarrollador full-stack y desarrollador blockchain
 
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/CarlosB14?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/CarlosB14?style=social)
 
 Hoy en día soy técnico de telecomunicaciones, donde mi trabajo se basa en redes.
 
