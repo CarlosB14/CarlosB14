@@ -1,16 +1,24 @@
 #  Hola, soy Carlos Beltrá 👋
-### Formándome como desarrollador full-stack y desarrollador blockchain
 
 ![GitHub Followers](https://img.shields.io/github/followers/CarlosB14?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/CarlosB14?style=social)
 
-Hoy en día soy técnico de telecomunicaciones, donde mi trabajo se basa en redes.
+## Sobre mí
+Soy un apasionado Desarrollador Backend en Python con una sólida formación en telecomunicaciones y redes informáticas. Actualmente, estoy cursando un Máster en Desarrollo Full-Stack y Desarrollo Blockchain en ConquerBlocks, donde he adquirido habilidades de vanguardia en el mundo de la tecnología.
 
-Llevo cerca de un año dedicándole todo mi tiempo libre a aprender el mundo de la programación. Tengo conocimientos como desarrollador en Python, lo cual estoy subiendo repositorios para ir practicando y mejorando mi programación.
-Ahora mismo estoy estudiando JavaScript habiendo ya finalizado HTML y CSS junto a SQL para poder llegar a convertirme en un programador full-stack.
+Mi enfoque principal es la creación de soluciones de software robustas y escalables. Me encanta explorar las posibilidades que ofrece Python y utilizarlo para resolver problemas complejos y desarrollar aplicaciones de alto rendimiento.
 
-Aprendiendo de la mano de la academia Conquerblocks donde curso un máster para especializarme en desarrollador full-stack y desarrollador blockchain.
-En dicha academia nos formarán en Python, HTML, CSS y JavaScript, SQL, Rust, GO, Solidity y Viper, estos dos últimos refiriéndose al mundo blockchain.
+## Experiencia Profesional
+Como Técnico de Telecomunicaciones, he trabajado en la implementación y gestión de redes informáticas de alto nivel, garantizando la conectividad y la seguridad de los sistemas. Esta experiencia me ha brindado un profundo entendimiento de la infraestructura tecnológica que sustenta el mundo digital.
+
+## Mis Habilidades
+- **Lenguajes de Programación:** Python
+- **Desarrollo Backend:** Flask, Django
+- **Base de Datos:** SQL, MongoDB
+- **Blockchain:** Ethereum, Solidity
+- **Redes Informáticas:** Configuración, Seguridad
+- **Desarrollo Web:** HTML, CSS, JavaScript
+- **Herramientas de Colaboración:** Git, GitHub
 
 
 ## Tecnologías:
